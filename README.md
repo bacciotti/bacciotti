@@ -10,7 +10,7 @@
 :link: [My site](https://bacciotti.com)  
 :owl: [Twitter](https://twitter.com/baciotti) (I like owls)  
 :tv: [Youtube](https://www.youtube.com/c/BacciottiCursosOnline)  
-:man_technologist:[LinkedIn] (https://www.linkedin.com/in/lucasbacciotti/)  
+:man_technologist:[LinkedIn](https://www.linkedin.com/in/lucasbacciotti/)  
 
 <!--
 **bacciotti/bacciotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
