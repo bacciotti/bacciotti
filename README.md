@@ -4,7 +4,7 @@
 :computer: Software engineer, podcaster and coffee lover  
 :house: Brazil / :earth_americas: Remote  
 :desktop_computer: Fullstack engineer  
-:keyboard: Wordpress developer  
+:keyboard: PHP and Wordpress developer  
 
 ### You can find me on
 :link: [My site](https://bacciotti.com)  
