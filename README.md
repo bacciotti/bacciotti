@@ -2,7 +2,7 @@
 
 :mortar_board: Professional M.Sc. in Computer Science  
 :computer: Software engineer, podcaster and coffee lover  
-:house: Brazil / :earth_americas: Remote  
+:earth_americas: Remote  
 :desktop_computer: Fullstack engineer  
 :keyboard: PHP and Wordpress developer  
 
