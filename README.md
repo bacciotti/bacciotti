@@ -5,7 +5,7 @@
 :earth_americas: Remote  
 
 ### You can find me on
-:link: [My site](https://bacciotti.com)  
+:link: [Blog](https://bacciotti.com)  
 :man_technologist:[LinkedIn](https://www.linkedin.com/in/lucasbacciotti/)  
 
 <!--
