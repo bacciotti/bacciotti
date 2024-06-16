@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lucas!
+## Hi there 👋 I'm Lucas!
 
 :mortar_board: Professional M.Sc. in Computer Science  
 :computer: Senior software engineer @ RedHat and coffee lover  
@@ -10,7 +10,6 @@
     <img src="https://skillicons.dev/icons?i=py,php,wordpress,django,flask,docker,kubernetes,openshift,terraform,git,bash,aws,gcp,azure,js" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=py,php,wordpress,django,flask,docker,kubernetes,openshift,terraform,git,bash,aws,gcp,azure,js)](https://skillicons.dev)
 
 
 ## You can find me on
