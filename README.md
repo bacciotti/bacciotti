@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Lucas!
 
-:mortar_board: Professional M.Sc. in Computer Science  
-:computer: Senior software engineer @ RedHat and coffee lover  
+:computer: Senior software engineer @ RedHat
+:coffee Coffee lover
+:mortar_board: M.Sc. in Computer Science  
 :earth_americas: Remote  
 
 ## Tech Stack
