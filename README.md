@@ -8,7 +8,7 @@
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,wordpress,django,flask,docker,kubernetes,openshift,terraform,git,bash,aws,gcp,azure,js" />
+    <img src="https://skillicons.dev/icons?i=py,php,django,docker,kubernetes,openshift,git,bash,aws,gcp,azure" />
   </a>
 </p>
 
